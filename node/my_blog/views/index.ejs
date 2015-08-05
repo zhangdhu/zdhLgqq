@@ -1,0 +1,88 @@
+<%- include header %>
+
+<div id = "post" >
+</div>
+
+<%- include paging %>
+
+<%- include footer %>
+    
+
+<script type="text/javascript">
+    $(document).ready(function() {
+      homePost(1)  
+    })
+
+
+    function homePost(pageNum){
+
+        $.post("/getPost?p=" + pageNum, {"p":pageNum}, function (data) {
+
+            var dataObj = JSON.parse(data);//转换为json对象
+            console.log(dataObj)
+            if ('T' == dataObj.result) {
+                var htmlP = '';
+                $.each(dataObj.post,function(idx,item){
+
+                    var titleName = item.title;
+                    if(titleName.length > 20){
+                        titleName = titleName.substr(0,20) + '...'
+                    }
+
+                    var title = escape(titleName)
+                    var titleUrl = '/u/'+item.name + '/' + item.time;
+                    var imgUrl = 'https://gravatar.com/avatar/' + item.avatar + '?s=28';
+                    var authorUrl = '/u/' +item.name;
+                    var post = unescape(item.post)
+
+                    if(post.length > 1020){
+                        post = post.substr(0,1020) + '...'
+                    }
+
+                    var html = '<div class="post">' +
+                            '<h3><a href="'+titleUrl+'">'+ title +'</a></h3>' +
+                            '<h5 class="author text-muted"><img class="avatar" src="'+imgUrl+'" alt=""/>  ' +
+                            '<a href="'+authorUrl+'">'+item.name+'</a> 发布于'+ item.date +'</h5>' +
+                            '<p>'+post+'</p>' +
+                            '<hr/>' +
+                            '</div>';
+                    htmlP += html;
+                });
+                $("#post div").remove()    
+                $("#post").append(htmlP)
+                
+                //以下是分页
+                var isFirst = dataObj.isFirst;    
+                var isLast = dataObj.isLast; 
+                var page = dataObj.page; 
+                var totalPage = dataObj.totalPage
+                var pager = '';      
+                if(!isFirst) {
+                    pager += '<li class="previous"><a style="cursor: pointer" onclick= "homePost(&apos;'+ (page - 1) +'&apos;)">«</a></li>'
+                }
+                    pager += '<li class="badge">'+page+' / '+totalPage+'</li>'
+                
+                if(!isLast) {
+                    pager += '<li class="next"><a style="cursor: pointer" onclick= "homePost(&apos;'+ (page + 1) +'&apos;)">»</a></li>'
+                }
+                $("#pager li").remove()  
+                $("#pager").append(pager)
+            }
+
+        })
+    }
+
+    // 将HTML转义为实体
+    function escape(html){
+        var elem = document.createElement('div')
+        var txt = document.createTextNode(html)
+        elem.appendChild(txt)
+        return elem.innerHTML;
+    }
+    // 将实体转回为HTML
+    function unescape(str) {
+        var elem = document.createElement('div')
+        elem.innerHTML = str
+        return elem.innerText || elem.textContent
+    }
+</script>

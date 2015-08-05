@@ -1,0 +1,615 @@
+[Fri Jul 31 2015 17:57:15 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:04:25 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:04:43 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:04:45 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:05:56 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:06:35 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:10:15 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:11:04 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Fri Jul 31 2015 18:11:06 GMT+0800 (CST)] - /docInfo
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Mon Aug 03 2015 17:55:33 GMT+0800 (CST)] - /getTen
+Error: Failed to lookup view "[object Object]" in views directory "/opt/node_project/blog-coffeeScript-express4-bootstrap3/views"
+    at Function.app.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/application.js:491:17)
+    at ServerResponse.res.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/response.js:777:7)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/routes/index.js:102:20
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/models/post.js:287:22
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:197:9
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:228:31
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:806:30
+    at Cursor.close (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:1009:5)
+    at getMore (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:806:12)
+    at getAllByGetMore (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:226:3)
+[Mon Aug 03 2015 17:57:50 GMT+0800 (CST)] - /getTen
+Error: Failed to lookup view "[object Object]" in views directory "/opt/node_project/blog-coffeeScript-express4-bootstrap3/views"
+    at Function.app.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/application.js:491:17)
+    at ServerResponse.res.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/response.js:777:7)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/routes/index.js:102:13
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/models/post.js:287:22
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:197:9
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:228:31
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:806:30
+    at Cursor.close (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:1009:5)
+    at getMore (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:806:12)
+    at getAllByGetMore (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/mongodb/lib/mongodb/cursor.js:226:3)
+[Mon Aug 03 2015 17:59:44 GMT+0800 (CST)] - /getTen
+Error: Failed to lookup view "[object Object]" in views directory "/opt/node_project/blog-coffeeScript-express4-bootstrap3/views"
+    at Function.app.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/application.js:491:17)
+    at ServerResponse.res.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/response.js:777:7)
+    at Object.handle (/opt/node_project/blog-coffeeScript-express4-bootstrap3/routes/index.js:73:11)
+    at next_layer (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/route.js:103:13)
+    at Route.dispatch (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/route.js:107:5)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:195:24
+    at Function.proto.process_params (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:251:12)
+    at next (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:189:19)
+    at next (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:166:38)
+    at SendStream.error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/node_modules/serve-static/index.js:74:37)
+[Mon Aug 03 2015 18:00:37 GMT+0800 (CST)] - /getTen
+Error: Failed to lookup view "[object Object]" in views directory "/opt/node_project/blog-coffeeScript-express4-bootstrap3/views"
+    at Function.app.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/application.js:491:17)
+    at ServerResponse.res.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/response.js:777:7)
+    at Object.handle (/opt/node_project/blog-coffeeScript-express4-bootstrap3/routes/index.js:73:11)
+    at next_layer (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/route.js:103:13)
+    at Route.dispatch (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/route.js:107:5)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:195:24
+    at Function.proto.process_params (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:251:12)
+    at next (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:189:19)
+    at next (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:166:38)
+    at SendStream.error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/node_modules/serve-static/index.js:74:37)
+[Mon Aug 03 2015 18:00:38 GMT+0800 (CST)] - /getTen
+Error: Failed to lookup view "[object Object]" in views directory "/opt/node_project/blog-coffeeScript-express4-bootstrap3/views"
+    at Function.app.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/application.js:491:17)
+    at ServerResponse.res.render (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/response.js:777:7)
+    at Object.handle (/opt/node_project/blog-coffeeScript-express4-bootstrap3/routes/index.js:73:11)
+    at next_layer (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/route.js:103:13)
+    at Route.dispatch (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/route.js:107:5)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:195:24
+    at Function.proto.process_params (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:251:12)
+    at next (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:189:19)
+    at next (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/lib/router/index.js:166:38)
+    at SendStream.error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/express/node_modules/serve-static/index.js:74:37)
+[Mon Aug 03 2015 18:29:16 GMT+0800 (CST)] - /getPost
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Mon Aug 03 2015 18:31:47 GMT+0800 (CST)] - /getPost
+Error: invalid json
+    at error (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:97:13)
+    at /opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/opt/node_project/blog-coffeeScript-express4-bootstrap3/node_modules/body-parser/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:199:16)
+    at IncomingMessage.emit (events.js:104:17)
+    at _stream_readable.js:908:16
+    at process._tickCallback (node.js:355:11)
+[Tue Aug 04 2015 14:16:19 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+TypeError: undefined is not a function
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:76:15)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:410:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:16:36 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+TypeError: undefined is not a function
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:76:15)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:410:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:16:45 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+TypeError: undefined is not a function
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:76:15)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:410:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:17:42 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+ReferenceError: id is not defined
+    at Object.handle (E:\my\app\my_blog\routes\index.js:410:21)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+    at next (E:\my\app\my_blog\node_modules\express\lib\router\index.js:189:19)
+[Tue Aug 04 2015 14:28:54 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:29:26 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:29:32 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:29:37 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:29:38 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:29:43 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:30:35 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:30:38 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:31:18 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:33:48 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:36:48 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:46:26 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:47:02 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:47:06 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:47:17 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:47:48 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:47:49 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:47:51 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659092635/55c03214ba76d730428e8e97
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:48:03 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:50:03 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:50:33 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:50:33 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:50:56 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:50:59 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:51:11 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:51:12 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:53:04 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:53:22 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:53:25 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:55:19 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:12)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:55:34 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:12)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:56:07 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:12)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 14:57:36 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438651042129/55c012a2f17d41d0449ff6ce
+ReferenceError: db is not defined
+    at Function.Post.getOneById (E:\my\app\my_blog\models\post.js:77:20)
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:12)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+[Tue Aug 04 2015 15:03:40 GMT+0800 (中国标准时间)] - /u/200715251@qq.com/1438659104652/55c03220ba76d730428e8e99
+TypeError: undefined is not a function
+    at Object.handle (E:\my\app\my_blog\routes\index.js:411:19)
+    at next_layer (E:\my\app\my_blog\node_modules\express\lib\router\route.js:103:13)
+    at Route.dispatch (E:\my\app\my_blog\node_modules\express\lib\router\route.js:107:5)
+    at E:\my\app\my_blog\node_modules\express\lib\router\index.js:195:24
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:268:14)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at param (E:\my\app\my_blog\node_modules\express\lib\router\index.js:280:16)
+    at Function.proto.process_params (E:\my\app\my_blog\node_modules\express\lib\router\index.js:296:3)
+    at next (E:\my\app\my_blog\node_modules\express\lib\router\index.js:189:19)
